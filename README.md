@@ -1,5 +1,3 @@
-### <p align="center"><b>This project was created with [Divjoy](https://divjoy.com?ref=readme) ✨</b></p>
-
 ## 👉 Get Started
 Install dependencies
 ```
